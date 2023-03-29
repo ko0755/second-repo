@@ -8,7 +8,7 @@ def sub_func(n1,n2) :
 
 def mul_func(n1,n2) :
     return n1 * n2
-# 자바의 try-catch를 python에서는 try-except로 나타낼수 있다
+# 자바의 try-catch를 python에서는 try-except로 나타낼수 있다.
 def div_func(n1, n2):
     try:
         result = n1 / n2
